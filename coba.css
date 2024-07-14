@@ -5,3 +5,7 @@ html {
 .kotak {
     color: brown;
 }
+
+body {
+    border: 1px solid black;
+}
